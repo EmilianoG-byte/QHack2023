@@ -1,4 +1,4 @@
-# QHack2023
+# QHack2023 (MFC): Accelerating Noisy Algorithm Research with PennyLane-Lightning and NVIDIA cuQuantum SDK
 
 This repository was created for the QHack2023 Hackathon.
 
